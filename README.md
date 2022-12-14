@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Drumberboy
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web programming
-- 💞️ I’m looking to collaborate on a web site development
+- I hacked the city bank
 - 📫 How to reach me : +25761848889
 
 <!---
